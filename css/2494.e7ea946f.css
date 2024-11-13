@@ -1,0 +1,1 @@
+.rowNumber[data-v-978fb1ec]:before{content:counter(cssRowCounter) ". ";counter-increment:cssRowCounter}
